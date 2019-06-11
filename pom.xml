@@ -1319,7 +1319,7 @@ limitations under the License.
                             <property name="charset" value="UTF-8" />
                             <property name="severity" value="warning" />
                             <!-- Checks for whitespace -->
-                            <!-- See http://checkstyle.sf.net/config_whitespace.html -->
+                            <!-- See https://checkstyle.sf.net/config_whitespace.html -->
                             <module name="FileTabCharacter">
                                 <property name="eachLine" value="true" />
                             </module>
